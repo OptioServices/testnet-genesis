@@ -2,7 +2,7 @@
   "app_name": "\u003cappd\u003e",
   "app_version": "",
   "genesis_time": "2024-08-20T18:25:33.101776274Z",
-  "chain_id": "optio",
+  "chain_id": "optio-testnet-1",
   "initial_height": 1,
   "app_hash": null,
   "app_state": {
@@ -16,7 +16,15 @@
         "sig_verify_cost_ed25519": "590",
         "sig_verify_cost_secp256k1": "1000"
       },
-      "accounts": []
+      "accounts": [
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio16l7d5rpvp54jw7cgyva22xrgz3vkd82436c62w",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        }
+      ]
     },
     "authz": {
       "authorization": []
@@ -26,8 +34,23 @@
         "send_enabled": [],
         "default_send_enabled": true
       },
-      "balances": [],
-      "supply": [],
+      "balances": [
+        {
+          "address": "optio16l7d5rpvp54jw7cgyva22xrgz3vkd82436c62w",
+          "coins": [
+            {
+              "denom": "usopt",
+              "amount": "10000000000000"
+            }
+          ]
+        }
+      ],
+      "supply": [
+        {
+          "denom": "usopt",
+          "amount": "10000000000000"
+        }
+      ],
       "denom_metadata": [],
       "send_enabled": []
     },
