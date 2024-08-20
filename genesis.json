@@ -19,6 +19,13 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1wljgx4usdk75tmrnakra8csa0yy0dfj6g4j27j",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "optio16j5sq208j0sh38zswf3zpwpp7x3tv6p7cxz8dz",
           "pub_key": null,
           "account_number": "1",
@@ -36,6 +43,15 @@
       },
       "balances": [
         {
+          "address": "optio1wljgx4usdk75tmrnakra8csa0yy0dfj6g4j27j",
+          "coins": [
+            {
+              "denom": "usopt",
+              "amount": "20000000000000"
+            }
+          ]
+        },
+        {
           "address": "optio16j5sq208j0sh38zswf3zpwpp7x3tv6p7cxz8dz",
           "coins": [
             {
@@ -43,12 +59,12 @@
               "amount": "10000000000000"
             }
           ]
-        },
+        }
       ],
       "supply": [
         {
           "denom": "usopt",
-          "amount": "10000000000000"
+          "amount": "30000000000000"
         }
       ],
       "denom_metadata": [],
