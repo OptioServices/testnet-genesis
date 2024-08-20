@@ -19,9 +19,9 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio16l7d5rpvp54jw7cgyva22xrgz3vkd82436c62w",
+          "address": "optio16j5sq208j0sh38zswf3zpwpp7x3tv6p7cxz8dz",
           "pub_key": null,
-          "account_number": "0",
+          "account_number": "1",
           "sequence": "0"
         }
       ]
@@ -36,14 +36,14 @@
       },
       "balances": [
         {
-          "address": "optio16l7d5rpvp54jw7cgyva22xrgz3vkd82436c62w",
+          "address": "optio16j5sq208j0sh38zswf3zpwpp7x3tv6p7cxz8dz",
           "coins": [
             {
               "denom": "usopt",
               "amount": "10000000000000"
             }
           ]
-        }
+        },
       ],
       "supply": [
         {
