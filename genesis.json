@@ -1,9 +1,9 @@
 {
   "app_name": "\u003cappd\u003e",
   "app_version": "",
-  "genesis_time": "2024-09-24T16:52:49.931173175Z",
+  "genesis_time": "2024-09-24T17:27:06.427226611Z",
   "chain_id": "optio-testnet",
-  "initial_height": "1",
+  "initial_height": 1,
   "app_hash": null,
   "app_state": {
     "06-solomachine": null,
@@ -19,30 +19,9 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1fqxgk7h6yxm4vlx8zkuaszzp0lemxsem59e6s0",
+          "address": "optio1h96lqzuyj5sa75flxuhk83nxaezfxvlv4em50h",
           "pub_key": null,
           "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1jhyxt2sutpyw8faeyvx8l9hcspnmtrgp96qh5m",
-          "pub_key": null,
-          "account_number": "1",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1nc7fzf7szdvqz07nfhtufa2znx92tunhr6fqmu",
-          "pub_key": null,
-          "account_number": "2",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio123s8wxkqa9q6ak39527hdvf0s066vl4u3y0fsx",
-          "pub_key": null,
-          "account_number": "3",
           "sequence": "0"
         }
       ]
@@ -57,34 +36,7 @@
       },
       "balances": [
         {
-          "address": "optio1fqxgk7h6yxm4vlx8zkuaszzp0lemxsem59e6s0",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "10000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio123s8wxkqa9q6ak39527hdvf0s066vl4u3y0fsx",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "29999960000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1jhyxt2sutpyw8faeyvx8l9hcspnmtrgp96qh5m",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "15000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1nc7fzf7szdvqz07nfhtufa2znx92tunhr6fqmu",
+          "address": "optio1h96lqzuyj5sa75flxuhk83nxaezfxvlv4em50h",
           "coins": [
             {
               "denom": "uOPT",
@@ -96,7 +48,7 @@
       "supply": [
         {
           "denom": "uOPT",
-          "amount": "30000000000000000"
+          "amount": "15000000000"
         }
       ],
       "denom_metadata": [],
