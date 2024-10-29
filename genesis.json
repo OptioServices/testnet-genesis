@@ -25,10 +25,17 @@
           "sequence": "0"
         },
         {
-          "@type":"/cosmos.auth.v1beta1.BaseAccount",
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "optio1pqz90naduup5unp46a3xv33s7u0v2n4xlys6zk",
           "pub_key": null,
           "account_number": "1",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio17c7g8ymu5eurepar3a4ygduemqp9egj4eqp6eg",
+          "pub_key": null,
+          "account_number": "2",
           "sequence": "0"
         }
       ]
@@ -43,6 +50,15 @@
       },
       "balances": [
         {
+          "address": "optio1pqz90naduup5unp46a3xv33s7u0v2n4xlys6zk",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "10000000000000"
+            }
+          ]
+        },
+        {
           "address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
           "coins": [
             {
@@ -52,11 +68,11 @@
           ]
         },
         {
-          "address": "optio1pqz90naduup5unp46a3xv33s7u0v2n4xlys6zk",
+          "address": "optio17c7g8ymu5eurepar3a4ygduemqp9egj4eqp6eg",
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "10000000000000"
+              "amount": "1000000000000"
             }
           ]
         }
@@ -64,7 +80,7 @@
       "supply": [
         {
           "denom": "uOPT",
-          "amount": "11000000000000"
+          "amount": "12000000000000"
         }
       ],
       "denom_metadata": [],
