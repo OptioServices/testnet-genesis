@@ -1,4 +1,5 @@
 {
+	"environment": "testnet",
 	"moniker": "optio",
 	"chainId": "optio-testnet",
 	"symbol": "OPT",
