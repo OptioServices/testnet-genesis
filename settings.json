@@ -1,0 +1,8 @@
+{
+    "moniker": "optio",
+	"chainId": "optio-testnet",
+	"binaryDownloadUrl": "https://github.com/OptioServices/optio-chain/releases/download/v0.1.0/optio-linux",
+	"symbol": "OPT",
+	"microDenom": "uOPT",
+	"decimals": 6
+}
