@@ -1,6 +1,6 @@
 {
     "denom": "OPT",
-    "maxSupply": 10000000, 
+    "maxSupply": 9000000, 
     "accounts": [
         { "email": "jared@optionetwork.io", "name": "Jared", "address": "optio1csccltd7aldjxfnec3cqg6gusu6gtsglzzrjqs", "amount": 1000000, "stake": 999000 },
         { "email": "bryan@optionetwork.io", "name": "Bryan", "address": "optio17dm0w5w3y8hdcy2fpq45njkal4hsuf3eufl9fv", "amount": 1000000, "stake": 999000 },
