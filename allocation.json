@@ -10,7 +10,7 @@
         { "email": "kyle@optionetwork.io", "name": "Kyle", "address": "optio19n0s2tx6g3uespx62jc4umfdm9a6v0ka3czqkx", "amount": 1000000, "stake": 999000 },
         { "email": "jon@optionetwork.io", "name": "Jon", "address": "optio1uan3vpufe36jwtgtdgyvr4uhkamv85hf7rx0ky", "amount": 1000000, "stake": 999000 },
         { "email": "jay@optionetwork.io", "name": "Jay", "address": "optio1wg6qzjm2nfyc22np96c44kvj3lcf9pxp66tw27", "amount": 1000000, "stake": 999000 },
-        { "email": "christian@optionetwork.io", "name": "Christian", "address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf", "amount": 1000000, "stake": 999000 },
+        { "email": "christian@optionetwork.io", "name": "Christian", "address": "optio1upw8vef66wwtwqdtemjqxwumztfx4fs377ce6q", "amount": 1000000, "stake": 999000 },
         { "name": "Distro Wallet", "address": "optio1cy6ww5emxluue4klexq9al6muz70fmz5yyasu3", "amount": 991000000 },
         { "name": "Distro Cold Wallet - YR 1", "address": "optio1n0sk7j65cnu8el432gzd2u8jx7segf9mc4ykyt", "amount": 14000000000 },
         { "name": "Distro Cold Wallet - YR 2", "address": "optio1mzqa4340zuzartpnv3ufalhghvq84wef9tun0n", "amount": 7500000000 },
