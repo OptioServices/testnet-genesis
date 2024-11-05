@@ -2,7 +2,7 @@
     "denom": "OPT",
     "maxSupply": 30000000000, 
     "accounts": [
-        { "email": "christian@optionetwork.io", "name": "Christian", "address": "optio1upw8vef66wwtwqdtemjqxwumztfx4fs377ce6q", "amount": 1000000, "stake": 999000 },
+        { "email": "christian@optionetwork.io", "name": "Christian", "address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh", "amount": 1000000, "stake": 999000 },
         { "email": "jared@optionetwork.io", "name": "Jared", "address": "optio1csccltd7aldjxfnec3cqg6gusu6gtsglzzrjqs", "amount": 1000000, "stake": 999000 },
         { "email": "bryan@optionetwork.io", "name": "Bryan", "address": "optio17dm0w5w3y8hdcy2fpq45njkal4hsuf3eufl9fv", "amount": 1000000, "stake": 999000 },
         { "email": "yasser@optionetwork.io", "name": "Yasser", "address": "optio1tlf3t3v8ra9gszkqc53zcvpw5ne0hwcyua2cgg", "amount": 1000000, "stake": 999000 },
