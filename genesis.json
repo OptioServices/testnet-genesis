@@ -1,7 +1,7 @@
 {
   "app_name": "optiod",
   "app_version": "1.0.0",
-  "genesis_time": "2024-11-24T00:00:00.0000000Z",
+  "genesis_time": "2024-09-24T32:33:15.1558577Z",
   "chain_id": "optio-testnet",
   "initial_height": 1,
   "app_hash": null,
