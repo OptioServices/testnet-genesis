@@ -122097,6 +122097,12 @@
       ],
       "validator_slash_events": []
     },
+    "distribute": {
+      "params": {
+        "authorizedAccounts": ["optio1l7a53w79sh6pn5wc4qsc4t2jv7dpe4ej9pwjpe"],
+        "maxSupply": "30000000000000000"
+      }      
+    },  
     "evidence": {
       "evidence": []
     },
