@@ -1,7 +1,7 @@
 {
-  "app_name": "\u003cOptio\u003e",
+  "app_name": "optiod",
   "app_version": "1.0.0",
-  "genesis_time": "2024-09-24T19:32:33.1558577Z",
+  "genesis_time": "2024-11-24T00:00:00.0000000Z",
   "chain_id": "optio-testnet",
   "initial_height": 1,
   "app_hash": null,
@@ -119,9 +119,17 @@
     },
     "distribute": {
       "params": {
+<<<<<<< Updated upstream
         "max_supply": "30000000000000000",
         "denom": "uOPT",
         "authorized_accounts": ["optio1l7a53w79sh6pn5wc4qsc4t2jv7dpe4ej9pwjpe"]
+=======
+        "authorizedAccounts": [
+	  "optio1l7a53w79sh6pn5wc4qsc4t2jv7dpe4ej9pwjpe"
+	],
+        "denom": "uOPT",
+      	"maxSupply": "30000000000000000"
+>>>>>>> Stashed changes
       }
     },
     "distribution": {
