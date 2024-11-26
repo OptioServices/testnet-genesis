@@ -117,15 +117,6 @@
         "amount": "1000"
       }
     },
-    "distribute": {
-      "params": {
-        "authorizedAccounts": [
-	  "optio1l7a53w79sh6pn5wc4qsc4t2jv7dpe4ej9pwjpe"
-	],
-        "denom": "uOPT",
-      	"maxSupply": "30000000000000000"
-      }
-    },
     "distribution": {
       "params": {
         "community_tax": "0.020000000000000000",
@@ -475,6 +466,15 @@
     "nft": {
       "classes": [],
       "entries": []
+    },
+    "optio": {
+      "params": {
+        "authorizedAccounts": [
+          "optio1l7a53w79sh6pn5wc4qsc4t2jv7dpe4ej9pwjpe"
+        ],
+        "denom": "uOPT",
+        "maxSupply": "30000000000000000"
+      }
     },
     "params": null,
     "runtime": null,
