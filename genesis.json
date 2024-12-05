@@ -30,6 +30,13 @@
           "pub_key": null,
           "account_number": "1",
           "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zmx23k49za9x2src2fy6sqnxml6y6kcjf7nj3z",
+          "pub_key": null,
+          "account_number": "2",
+          "sequence": "0"
         }
       ]
     },
@@ -52,6 +59,15 @@
           ]
         },
         {
+          "address": "optio1zmx23k49za9x2src2fy6sqnxml6y6kcjf7nj3z",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "500000000000"
+            }
+          ]
+        },
+        {
           "address": "optio15p0h85teu609vv4llme7h78ntkkzxf4car7puk",
           "coins": [
             {
@@ -64,7 +80,7 @@
       "supply": [
         {
           "denom": "uOPT",
-          "amount": "10750000000000"
+          "amount": "11250000000000"
         }
       ],
       "denom_metadata": [],
