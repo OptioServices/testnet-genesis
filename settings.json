@@ -1,7 +1,7 @@
 {
-	"environment": "mainnet",
+	"environment": "testnet",
 	"moniker": "optio",
-	"chainId": "optio",
+	"chainId": "optio-testnet",
 	"symbol": "OPT",
 	"microDenom": "uOPT",
 	"decimals": 6
