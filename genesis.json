@@ -1,13 +1,11 @@
 {
-  "app_name": "OptioTestnet",
-  "app_version": "v1.0.0",
+  "app_name": "\u003cOptio Testnet\u003e",
+  "app_version": "02132025.testnet.1",
   "genesis_time": "2024-12-05T20:01:06.020099857Z",
   "chain_id": "optio-testnet",
-  "initial_height": 1,
+  "initial_height": 1048190,
   "app_hash": null,
   "app_state": {
-    "06-solomachine": null,
-    "07-tendermint": null,
     "auth": {
       "params": {
         "max_memo_characters": "256",
@@ -19,30 +17,1376 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw8mprz0",
+          "address": "optio1qf4c52qrpzrcs9p0cryd42lrzx7m0w5r6t9mn2",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "ApMedGxjlWKRKjcwEakO5uPYKXZ9IsBTMtaK1g3rBktc"
+          },
+          "account_number": "125",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1qk2pkfmwdqx470ygmn0npz44va3kcs77gc9r6n",
           "pub_key": null,
-          "account_number": "0",
+          "account_number": "144",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio15p0h85teu609vv4llme7h78ntkkzxf4car7puk",
+          "address": "optio1q6md6pzfmtdlnv627west674ee5t720zz7mveg",
           "pub_key": null,
-          "account_number": "1",
+          "account_number": "164",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1q7klrkwack6eh4ssrqxvfskudxh75z88fg9kft",
+          "pub_key": null,
+          "account_number": "176",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pg2epms7tzuqph8j7kc7cza58ejsvtwjxquw0r",
+          "pub_key": null,
+          "account_number": "162",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pgkndwams2a37drrhgp5e8ve3eadfqvccgdvw7",
+          "pub_key": null,
+          "account_number": "73",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1p3tqmqh3qqf29er2vkjdvpxp7fdnt9vdxvvn6y",
+          "pub_key": null,
+          "account_number": "70",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pjqt8vdrhuvd44q77cqdekz9rxzlapejrvqrd2",
+          "pub_key": null,
+          "account_number": "74",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pnvjmul4kdyn0uchkyc65v93wtg8p5mhwkx8xd",
+          "pub_key": null,
+          "account_number": "75",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pnaypnnhccdend3f48smz83fpl97575amjsx6u",
+          "pub_key": null,
+          "account_number": "15",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pkz90x7sd8srkay0yk3grl2lc05agpe95hf7lt",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AhN0bBgqbOvz00kC7tcrl4uvc+G/0kKtQy4MLk7ySvYS"
+          },
+          "account_number": "126",
+          "sequence": "27"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ph9r9fjte8l0fg29xz28mpns0l0rlfjnlsacgu",
+          "pub_key": null,
+          "account_number": "160",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pcnvxf6vuhjhv0nl4g8jusytfdkgy9l2p0dcjz",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AoUp4gYnF9hqfEmhIBR9n9m5ROIA/RhdPzVLbtmqOm17"
+          },
+          "account_number": "173",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1p66pe9awffrcm38qtj35k68ja7qcprq5axm5vj",
+          "pub_key": null,
+          "account_number": "71",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1pa8yfl3a98cngzuy3nel4pahx0qm6njhfqmgft",
+          "pub_key": null,
+          "account_number": "72",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw8mprz0",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A4tZQBeGB1sxBZX2TDXXcvl1mUoTxxmGPfLUd2CJqOb1"
+          },
+          "account_number": "0",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zx00ctaa4gmw0pqprl4vmrfmunjvz46hn8lzx3",
+          "pub_key": null,
+          "account_number": "95",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zg6s7ze4df3judhfmyeercrut3s8fhxump9dp8",
+          "pub_key": null,
+          "account_number": "91",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zt9mhx04avra3ac5hcmxn0kmjtu237rv5wk4ls",
+          "pub_key": null,
+          "account_number": "93",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zw86nek0lxd8ymee083pgw5hv50pnt4n5nuc04",
+          "pub_key": null,
+          "account_number": "94",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zsw30plzjvdxt96l466h3y6zykvnmhngydkhng",
+          "pub_key": null,
+          "account_number": "92",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1zn0qkluv7mntm33cgt89uxq4wwpjws9tgr9d9l",
+          "pub_key": null,
+          "account_number": "136",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ze9qrtzvr9cmg0jqznde6g6ctd8qt4j02dpu7r",
+          "pub_key": null,
+          "account_number": "90",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "optio1zmx23k49za9x2src2fy6sqnxml6y6kcjf7nj3z",
-          "pub_key": null,
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AkE2NheXZnCV8lE1rrfjTWexNdf+IaLiNufNVt0zv9ak"
+          },
           "account_number": "2",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1r58nhxzlzwuwxvjvrqpyjn349gn3q6heqf22u4",
+          "pub_key": null,
+          "account_number": "138",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1rhc0wrh8fapggz8ec3g3r6h9sngllka6em6qxx",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A4cZrU5HYOoBAntHbZwHtxzIEjb5i4b0QeBsvekRLSK5"
+          },
+          "account_number": "146",
+          "sequence": "5"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1y9x9wu2z2rd2yna4c08hmdyjdk5cfsgmwjgceu",
+          "pub_key": null,
+          "account_number": "88",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1yvnas93ndk0zs8rxwpehtz0k5lvq6a6mn9revz",
+          "pub_key": null,
+          "account_number": "156",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1y03lpws95jtklhsx3vm8ecgh9ylnzjgsp3kn6n",
+          "pub_key": null,
+          "account_number": "87",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1yskt4yxtc72e4pjqp47jg0veujcdlp6kffcl6w",
+          "pub_key": null,
+          "account_number": "115",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1yc2pht8wnf437uvgyjwl2ng4shyze7yj7z3q74",
+          "pub_key": null,
+          "account_number": "145",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1yaktvl647krqnrydjdv7v6gf8wtlut74xjv5r0",
+          "pub_key": null,
+          "account_number": "89",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "Aj6O7QdE1VIGu9NwmIIZ15LZB0Q63Jy+plNhhHc0Ih4M"
+          },
+          "account_number": "150",
+          "sequence": "28"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19rfzm7c4r5h5mhcawrxquulslfckmdzr6xywff",
+          "pub_key": null,
+          "account_number": "47",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19t9epysc0uu4zqzwqwvzfxpup8wl84a43h4s02",
+          "pub_key": null,
+          "account_number": "170",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19w5kulsw59vyl7prql67gqx6lkhrs5crgf62gg",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A+ZuWUODBMz9Akzj4BZ+Aysnp7oetd5ATAjtLtL+7aIR"
+          },
+          "account_number": "167",
+          "sequence": "2"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19jq9m7jeh43j9dfg3rcuucw0k8er4pvsd0fkkf",
+          "pub_key": null,
+          "account_number": "159",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19ee0guee5gykflhhnuwm5puqm65yj34u4mdyuu",
+          "pub_key": null,
+          "account_number": "46",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19at5sz8n073cc4th6gg5tk9jg33tdz9f4cdra5",
+          "pub_key": null,
+          "account_number": "45",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio19alcnt2q3vn8x0hzl9hc5ahlh6998fk360nlm7",
+          "pub_key": null,
+          "account_number": "44",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1xpfnd0vzhkyph3c7j528zzj29hw9qh7dldc2ma",
+          "pub_key": null,
+          "account_number": "86",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1xxujwqequzjwpytnqjmpdvtnwfj6xwk9yyvd8d",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A69GsH9zAqVHm70UhBjtysM+g14pbVsnjt23CevseCNk"
+          },
+          "account_number": "169",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1xgl9ztjm62xy697xd5kcnjmtgrxkjgw6k8wjxn",
+          "pub_key": null,
+          "account_number": "113",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1x256fz72gppgjp5yy832yp5yv67euzw6c6vqdr",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AiF04lzsxdMrphxM18tatmCHUZ/3vWcGrk42BIChhrVW"
+          },
+          "account_number": "177",
+          "sequence": "3"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1xl0af7t2pdmyyezfmvp2g6lccg33umt9udyl7j",
+          "pub_key": null,
+          "account_number": "114",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio188h3sfupxfccqqmfqhnukawakl0msh5jy0jf0m",
+          "pub_key": null,
+          "account_number": "42",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18dfuuqx6g7uuh8ttq6jte4eu2rkys26q6d3kjq",
+          "pub_key": null,
+          "account_number": "129",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AzmVQADkSXWH5xN+hn1GDo1sUzGWfzyrqKzxnxQDReSw"
+          },
+          "account_number": "151",
+          "sequence": "31"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18sj57509j93v2wvsfmvtd2nnqh67c5vur3jcec",
+          "pub_key": null,
+          "account_number": "99",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AnbxfZsXsjsgQknHsTosJAeaurkg6FKXX4226XLmUSv0"
+          },
+          "account_number": "122",
+          "sequence": "25"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18k5rumrk7kj947dslfxdecqj6fhx5r8eu6fqvz",
+          "pub_key": null,
+          "account_number": "43",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio18mewpxujwxsefr96r6pv8ru2kg04cq4pgnfw4q",
+          "pub_key": null,
+          "account_number": "98",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1gr4xd763nhxdk6ttn0kntdcs7dhpnyhqm7d3uq",
+          "pub_key": null,
+          "account_number": "105",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1g0744sm7u672nvaj5mcs2znh4pl769p4enwjqy",
+          "pub_key": null,
+          "account_number": "103",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1gkgzncp6tuu4cmqe0ter64pyk0y9yhld2g5ms8",
+          "pub_key": null,
+          "account_number": "104",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1g7exumnkvwlumuz5h074n6h85lnhhvtyg47nua",
+          "pub_key": null,
+          "account_number": "60",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1fq8r8xkgk0062pt2athughanxa80t0l56tw60l",
+          "pub_key": null,
+          "account_number": "101",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ftgcwpleuafsacxcehtkhj3ewj3p4dr7r6x2sw",
+          "pub_key": null,
+          "account_number": "102",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1fwxlh852mdwwnfasg9dxzl2p448t2xqyd7f2qs",
+          "pub_key": null,
+          "account_number": "59",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1f0d2amlleh0sw8qar98ds2g6yehhtn5nkzhac4",
+          "pub_key": null,
+          "account_number": "58",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1f0c46p6yhvmhtsspdpa46yaukcjegcnplz8ap4",
+          "pub_key": null,
+          "account_number": "157",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1fhfhwhywcu9kkdqcux3pvntud7mutcx2uqv0vv",
+          "pub_key": null,
+          "account_number": "131",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3qxeqje",
+            "pub_key": null,
+            "account_number": "6",
+            "sequence": "0"
+          },
+          "name": "bonded_tokens_pool",
+          "permissions": [
+            "burner",
+            "staking"
+          ]
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio129y6r6pjq94apa2v8h05qy03zqtud5eyzytyez",
+          "pub_key": null,
+          "account_number": "97",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12xy9rwdflhuy8unl5y7mcxdfzx33wvk245kch9",
+          "pub_key": null,
+          "account_number": "24",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12xk6n8x5dyqlvpm2ae5daps43z07p6dgwt2c9h",
+          "pub_key": null,
+          "account_number": "23",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio128m573tc04fdf36lvj3e4l6tyuh5swzpwnwr4m",
+          "pub_key": null,
+          "account_number": "18",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12wf4xkk6jt2vmvh2yheqgs3gwkct9cl6w7ahkt",
+          "pub_key": null,
+          "account_number": "22",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12wearl8950smvl8ttzfs6g53lzs50xf2k3uyd8",
+          "pub_key": null,
+          "account_number": "21",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12026xmhcu44aar6zuf4zdvzjgj3wx0l3sh92lf",
+          "pub_key": null,
+          "account_number": "148",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12j67dhqemwy05rur47x7482rle3a7wfjk8pqs6",
+          "pub_key": null,
+          "account_number": "19",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio125nu6rzm2ap8ncnnhmqymp6vguk82y4vvhm83k",
+          "pub_key": null,
+          "account_number": "133",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12kerxdwfwmy2xehuyqkfgv6v57a53ddfcsrqaf",
+          "pub_key": null,
+          "account_number": "20",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio12hndmqgklegjtafq9szq26lm0c3hafp4gu3pns",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "Ao3AmoQu1Joh98nLj1teesHpI8QDrqYCdV3VlCYtkjYz"
+          },
+          "account_number": "166",
+          "sequence": "7"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio127gzukwd9zpyntvfn363q6z3536z5qrztvdlr3",
+          "pub_key": null,
+          "account_number": "96",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1tzrgfr8wdsfatgdhwthyrry92d09c07uvpa4mq",
+          "pub_key": null,
+          "account_number": "127",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio1tygms3xhhs3yv487phx3dw4a95jn7t7l5x93yd",
+            "pub_key": null,
+            "account_number": "7",
+            "sequence": "0"
+          },
+          "name": "not_bonded_tokens_pool",
+          "permissions": [
+            "burner",
+            "staking"
+          ]
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1t99hfu2a2rm6rk5lj92rj59mhqpva4rujmw49a",
+          "pub_key": null,
+          "account_number": "76",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1txeu0744sju037yegev2jauvnsytjrzg6045s3",
+          "pub_key": null,
+          "account_number": "78",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1tdn4cy5g9ql6fqut9f3pc0ru2tu758askf8x4c",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AvupJ3E+qsnihXD5pg8QDOpN/uu/KIOh5Y49VhHOCzqh"
+          },
+          "account_number": "124",
+          "sequence": "3"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1tw42ktrhe4j47kxu04euye8jmjn0s9ue79qay0",
+          "pub_key": null,
+          "account_number": "77",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1vzpdqlc9279vsvnmg60f32mmle0qzlqen6h9f4",
+          "pub_key": null,
+          "account_number": "84",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1v2mpxerr3ugljwkqkxx0g7lx7p2mrj9gjq9ht7",
+          "pub_key": null,
+          "account_number": "11",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1vwhnvfhapvnzutcwq6u3uezsfsthqxtn83gk4e",
+          "pub_key": null,
+          "account_number": "83",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1v0x406grqlsmssz0vz94zpmusqn2naqzhz8fp7",
+          "pub_key": null,
+          "account_number": "82",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1dqm5nl5vrc40m2dw3geaqnldze2azhdmfanys8",
+          "pub_key": null,
+          "account_number": "100",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1drxt02keuq95pssuxljjtszmty2ehlxcu6lu0j",
+          "pub_key": null,
+          "account_number": "54",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1dw8rfdg6mcujhus40le0yjpw5k4fam35lsg6js",
+          "pub_key": null,
+          "account_number": "153",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1d4ver76srml52le7pslj4tcw3kd0ue5cd0a256",
+          "pub_key": null,
+          "account_number": "52",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1deh9nht8ek6xq5zhggmtw6njkqgsx4najm2q0e",
+          "pub_key": null,
+          "account_number": "53",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1wp9rtfet59se9cgeyvw5csn23zs5dseepm2me4",
+          "pub_key": null,
+          "account_number": "85",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1wxerp6cdu4eapwapyee8ket24pxtjxyyny80yy",
+          "pub_key": null,
+          "account_number": "112",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio10yr3drlxts9f3nhyptewn3yngp565cqq6yyl04",
+          "pub_key": null,
+          "account_number": "132",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio10f4sp2u4qctvwc7qk7sskkgwqjqp3lgxxex3xa",
+          "pub_key": null,
+          "account_number": "13",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio10d07y265gmmuvt4z0w9aw880jnsr700j0lr2aa",
+            "pub_key": null,
+            "account_number": "8",
+            "sequence": "0"
+          },
+          "name": "gov",
+          "permissions": [
+            "burner"
+          ]
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio10nfnsh6nrkjdtqdn52w9s3qz6ptlxrdc3t592h",
+          "pub_key": null,
+          "account_number": "17",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio10axtmg2tw6ezg7fq48whny4j9rjqtsyszxm4hr",
+          "pub_key": null,
+          "account_number": "16",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1sqcr2dx0xljlz5mzu08dlhsvce404hjahl9xke",
+          "pub_key": null,
+          "account_number": "111",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1sp3m66dtjvr3y5yxenlw2gwy5j3g8cegvw70cu",
+          "pub_key": null,
+          "account_number": "158",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1s2qqtctx6afdhz07zfpkm0dmrkwtxu4p94artv",
+          "pub_key": null,
+          "account_number": "142",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1s7j78wf6j3gu88nxnlvrx7m798jmt6j8csj2gv",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A6h15I+s8N+h2uXm4EFKgu8CbtlyJS3SSwb6YHNAVig6"
+          },
+          "account_number": "119",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio13z9gxwr5aqlns49gynnx3wshnh7xxxae0y07jl",
+          "pub_key": null,
+          "account_number": "27",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
-          "pub_key": null,
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A7KVczipwmZmOUnHgf6nCrZU+lWGhcIWdCP5CFsjKkaK"
+          },
           "account_number": "3",
+          "sequence": "296"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio132cpga4l5d5rt3qm5mdphhu98utfe2u3avng3s",
+          "pub_key": null,
+          "account_number": "137",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio13szdccnm5xrsv0zxyayx8pfw65fm2zsez5qqla",
+          "pub_key": null,
+          "account_number": "26",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio13j8dgpj0d4vac7qg4lvwma0kx3wjwrx9pqs2jt",
+          "pub_key": null,
+          "account_number": "25",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio13kdt238stc93n6r7c7gh82ksz02t6dsjl4n8n2",
+          "pub_key": null,
+          "account_number": "140",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio13haezvkh4dxvl5nw8j5mynp4cd7d5u58dz6pcx",
+          "pub_key": null,
+          "account_number": "154",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1jxqv74xp2nxjtkgjw6mhkwghsntx8jljx2umdw",
+          "pub_key": null,
+          "account_number": "107",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8jz5nz3",
+            "pub_key": null,
+            "account_number": "5",
+            "sequence": "0"
+          },
+          "name": "distribution",
+          "permissions": []
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1j3ut7zzrd847psq57we47v8vqxzsesx8zvt7ux",
+          "pub_key": null,
+          "account_number": "106",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1jaxa22acl6sne9texna5w7wq8lrqt9gjym0065",
+          "pub_key": null,
+          "account_number": "155",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1nzwaslm7k0r4754prp9anpsncf36kz80h3l0z4",
+          "pub_key": null,
+          "account_number": "110",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1nz4zqzr0lafhkqfcx5gfdl8epw2y0hxpjp0wlp",
+          "pub_key": null,
+          "account_number": "128",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1n8uj6kjy8ytrfladvhukgzhulhcdkwupr03zv4",
+          "pub_key": null,
+          "account_number": "109",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1nngv0n0c8wd2k2wl5efzmxanqy9zncjskvt9v2",
+          "pub_key": null,
+          "account_number": "69",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15p0h85teu609vv4llme7h78ntkkzxf4car7puk",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A+0WIajDs7pkCvAnBbIIKcvVWVrqkwx958/2VI73r/Dm"
+          },
+          "account_number": "1",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15r0nvguqzychkq06g3t78cxfm0yrzv0xfvauk2",
+          "pub_key": null,
+          "account_number": "37",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15f47ye0ntwqxzs7zkfe23g0mwzvd7t4nd9hshr",
+          "pub_key": null,
+          "account_number": "35",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15t7827ve2nsqh80ce2u7vvuxp2jz82lp25e4ws",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AzeTNwjIk85I2yn5VPFeLJodRt2E9uKFfyqfBSOLLX0j"
+          },
+          "account_number": "118",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15vgna4nr5rc8fjuhe87xtjvgkyym3g7hvyfks0",
+          "pub_key": null,
+          "account_number": "38",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio15lam39ykdlph5qskxwv7eqeaj4xkhywf0qsdfy",
+          "pub_key": null,
+          "account_number": "36",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14q74ps3mmmtusehsfm5g3da73kxkfw8cehvanx",
+          "pub_key": null,
+          "account_number": "34",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14ptyv3sxs9xvc3ha9kqckpqjlwljechwnrhux9",
+          "pub_key": null,
+          "account_number": "33",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14p0lzsxpfhpep55maunttxm0rr4par0ms7g8l6",
+          "pub_key": null,
+          "account_number": "32",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14p3ezruvvx9ass0ewgkzehtwfx0c2388mxh8rw",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AkV5WyHX9R89hT3ZojaGdp2oGGD5ptdU1+mJDDyPk8ih"
+          },
+          "account_number": "141",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14gud8mfd702l4008t52kkr39nj45z2mt35gjkw",
+          "pub_key": null,
+          "account_number": "31",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14wktzh4k734nvnw53d9znysrvslyteg64zntw2",
+          "pub_key": null,
+          "account_number": "121",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1460z3vkdxemjafllz4f5rm0gkvavllt4txfw2p",
+          "pub_key": null,
+          "account_number": "28",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14a0hw4w08eyjt47kla5tp7dd4jtuxvpcq9zvkc",
+          "pub_key": null,
+          "account_number": "30",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio14758tts5h3adyzmuhnqnhvq3re2mgtud59s0r8",
+          "pub_key": null,
+          "account_number": "29",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1k8dtfuehk78nz3x7d95990muku4wz6xuzd4mjk",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A+fpxEeW9MZaHUi5OUOwdaUjm6T+vUdt/e55BLBdgi9J"
+          },
+          "account_number": "116",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1h9sug2ga7x5drl2jgw7ycwdtkg93a22le8kkec",
+          "pub_key": null,
+          "account_number": "63",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1hfkhfepwgul9ugx9expj3t0ml26qcpcun3la4u",
+          "pub_key": null,
+          "account_number": "64",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1h2vxaagk8sunql3y09dccc0pp0p9z4lv3qpjc2",
+          "pub_key": null,
+          "account_number": "174",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ht4k7ejkz2mpdgncfsl2luyndp82wvwj3m6q48",
+          "pub_key": null,
+          "account_number": "65",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1hszlr4gehv6xzxv8j470h3535xhtquaw7c9gzc",
+          "pub_key": null,
+          "account_number": "135",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1h3ajh8mtz8rehzmj4uq9muul5279hnw40um0q6",
+          "pub_key": null,
+          "account_number": "61",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1h4rqm5f6ssyu7h0wcqljm454lu807lqnqj2jtw",
+          "pub_key": null,
+          "account_number": "117",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1h6l785rzcjgfdfaasj3qm20uchsw0jy4d74pdv",
+          "pub_key": null,
+          "account_number": "62",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1cz8zdzw04zf9aeklc8388n0ga6klql6mnhh33u",
+          "pub_key": null,
+          "account_number": "51",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1cyzq8556fqys2dcffwy4uhwcsz6tvp80dwq0rx",
+          "pub_key": null,
+          "account_number": "134",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1cs25r53kdp4y6npyn2lgh7f753hwk7wescr3xt",
+          "pub_key": null,
+          "account_number": "14",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ckgzk9qxstq5ja7k2z7epj038akp9gzthgxvnf",
+          "pub_key": null,
+          "account_number": "50",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1cm90k5f6mxkx8fwmzvy5y5fz6ylumuvplevdlr",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A2lXNC/s41YFjjsH3V/Ki7u/muLfS3CiR/W9TD5xWBl9"
+          },
+          "account_number": "163",
+          "sequence": "40"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "Ay5uFzw4qFyO3LyWhsiaKPPfG7Y0xT4JXOQu24Dk0kao"
+          },
+          "account_number": "147",
+          "sequence": "21"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1ex88e5gssy87dm07fmdpmtym5j2sh4mxdd2avl",
+          "pub_key": null,
+          "account_number": "57",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1e2g5937hq0hl2zqp934zthgj3qrqy4qlgt5nmg",
+          "pub_key": null,
+          "account_number": "55",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1et6mdyhp4n6y6wv80u9v0j62yfvhrdatkjj3mf",
+          "pub_key": null,
+          "account_number": "139",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1evp9l0qcjc0pdqxlst8tp43r0ydwwt68ktzyd7",
+          "pub_key": null,
+          "account_number": "56",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio16qd6fdrkf724275yzup8seca53x2tmpfhej5e6",
+          "pub_key": null,
+          "account_number": "40",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio16q3hvcfjg0szs4nkwzc8vsrdxdc3kvpe9ffflq",
+          "pub_key": null,
+          "account_number": "171",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio16tapj9njd8jgu4za7dpv4lxy3lx9qe0805umdf",
+          "pub_key": null,
+          "account_number": "41",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio163z4hh9x9aluh9x7kkqvq6g5sw758z029ye2q7",
+          "pub_key": null,
+          "account_number": "39",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio16mz9w5pgpk9skmhmdrhqxu02pd0j468cwcnuzf",
+          "pub_key": null,
+          "account_number": "10",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1m0gq423pn6sgqazwr6hw34quly2x6g6ma0xtw3",
+          "pub_key": null,
+          "account_number": "120",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio1m3h30wlvsf8llruxtpukdvsy0km2kum8avhhvw",
+            "pub_key": null,
+            "account_number": "9",
+            "sequence": "0"
+          },
+          "name": "mint",
+          "permissions": [
+            "minter"
+          ]
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A8GGFo4woAjQL1lSkchv4xLDQ/Orjhk3xc+gvU2zatqG"
+          },
+          "account_number": "165",
+          "sequence": "4"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1m6dkjg8p990kzl579dguwdxz8jf5q7262x67nd",
+          "pub_key": null,
+          "account_number": "68",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1uz8y7kjegk8jtw492d2vypy05heveq7k6fxj98",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AxjMBjBFIQJSS2bajfyTHI/VyQC4Nrkp+OYFdRVa0Nc9"
+          },
+          "account_number": "149",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1udcyx3tw98kl9kmllw6khflrmmn93yjjmrwuzw",
+          "pub_key": null,
+          "account_number": "12",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1uj9cef72su75ca9vdq3y2wnflgppmg8f90rs3x",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A3AmPEsywL4bQpEoiy8pIilrq9ceWGxybQZeVtNU0mmp"
+          },
+          "account_number": "143",
+          "sequence": "3"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1u64gld4vuga0s2tph4p085uy8fgecn475ww7f8",
+          "pub_key": null,
+          "account_number": "79",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1u6e7v5j8hu7aa0kehcj38jr5t758d5gapxw7u8",
+          "pub_key": null,
+          "account_number": "175",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1uud49lkhan6fkmc3h5rws3vhdxn09wh3uef938",
+          "pub_key": null,
+          "account_number": "81",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1u7rnr84y9ry6vyg896ul50f46nlsjza6qp920n",
+          "pub_key": null,
+          "account_number": "80",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1aqym3k7szr73686hzyzzg4yrs89z2edgkwjm4w",
+          "pub_key": null,
+          "account_number": "130",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1a2k8mhedeczyawql3tp2llmu7p9rskzfuw3rvt",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A6YcY7DplG5e2zfiyfZW9nSS/M6Dw6uIkPKbenbtctxu"
+          },
+          "account_number": "178",
+          "sequence": "3"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1avgd0pg6p5d0kajn5agtnpd38y2p8ve0pp8w4p",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AzzP0gUMTjkHYlBA2wAp+gVPit4Lxs2+OS5E6b9zKydb"
+          },
+          "account_number": "152",
+          "sequence": "3"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1a0lmtq3278h4mk8m2mcfa448k848zrq58s0ypw",
+          "pub_key": null,
+          "account_number": "48",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1a3kanvvcvjgs9lutdg4qjdyflqc83t3jhuq3kq",
+          "pub_key": null,
+          "account_number": "49",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1auprlzvq3xmunthfcfpsmu6w5u7cs0939p9qmt",
+          "pub_key": null,
+          "account_number": "172",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1aa7na30w2ekk0ewlrch0u3tmn9kwy700av53rx",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AupoFISueUXqbSub+Fhnbk6uS52geAyXK4o2wI1jHZUh"
+          },
+          "account_number": "168",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+          "base_account": {
+            "address": "optio17xpfvakm2amg962yls6f84z3kell8c5l9yn0qn",
+            "pub_key": null,
+            "account_number": "4",
+            "sequence": "0"
+          },
+          "name": "fee_collector",
+          "permissions": []
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1lxlldsx4zkp24fgsy7wvuju7yjdkhdurde4626",
+          "pub_key": null,
+          "account_number": "67",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1l2tcwhrwasy35msczklq6e0urz40s03dnst0sr",
+          "pub_key": null,
+          "account_number": "161",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1lt7xsfxpwrzn54ndy0cc6tzq0vrckyf94cv2c3",
+          "pub_key": null,
+          "account_number": "66",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1l6jywx7npywgt8ajg30jn9gvsadym5xfkrxqy6",
+          "pub_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AjHreSQiVD6cIeGJ4ycnNoeAte8M+4dmEIlceNtc4D0u"
+          },
+          "account_number": "123",
+          "sequence": "1"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1luq8u8duv8rlm44a4e0v455qsncsj4lyjn0h07",
+          "pub_key": null,
+          "account_number": "108",
           "sequence": "0"
         }
       ]
@@ -57,11 +1401,209 @@
       },
       "balances": [
         {
+          "address": "optio1qf4c52qrpzrcs9p0cryd42lrzx7m0w5r6t9mn2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "278179690"
+            }
+          ]
+        },
+        {
+          "address": "optio1qk2pkfmwdqx470ygmn0npz44va3kcs77gc9r6n",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "198246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1q6md6pzfmtdlnv627west674ee5t720zz7mveg",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1q7klrkwack6eh4ssrqxvfskudxh75z88fg9kft",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "5960000"
+            }
+          ]
+        },
+        {
+          "address": "optio1pg2epms7tzuqph8j7kc7cza58ejsvtwjxquw0r",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "200000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1pgkndwams2a37drrhgp5e8ve3eadfqvccgdvw7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "6775909380"
+            }
+          ]
+        },
+        {
+          "address": "optio1p3tqmqh3qqf29er2vkjdvpxp7fdnt9vdxvvn6y",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2710363752"
+            }
+          ]
+        },
+        {
+          "address": "optio1pjqt8vdrhuvd44q77cqdekz9rxzlapejrvqrd2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "9034545840"
+            }
+          ]
+        },
+        {
+          "address": "optio1pnvjmul4kdyn0uchkyc65v93wtg8p5mhwkx8xd",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "9034545840"
+            }
+          ]
+        },
+        {
+          "address": "optio1pnaypnnhccdend3f48smz83fpl97575amjsx6u",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio1pkz90x7sd8srkay0yk3grl2lc05agpe95hf7lt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "999502783154"
+            }
+          ]
+        },
+        {
+          "address": "optio1ph9r9fjte8l0fg29xz28mpns0l0rlfjnlsacgu",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1pcnvxf6vuhjhv0nl4g8jusytfdkgy9l2p0dcjz",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "999009999893"
+            }
+          ]
+        },
+        {
+          "address": "optio1p66pe9awffrcm38qtj35k68ja7qcprq5axm5vj",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio1pa8yfl3a98cngzuy3nel4pahx0qm6njhfqmgft",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "33879546900"
+            }
+          ]
+        },
+        {
           "address": "optio1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw8mprz0",
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "10000000000000"
+              "amount": "10001000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1zx00ctaa4gmw0pqprl4vmrfmunjvz46hn8lzx3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4969000212"
+            }
+          ]
+        },
+        {
+          "address": "optio1zg6s7ze4df3judhfmyeercrut3s8fhxump9dp8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1zt9mhx04avra3ac5hcmxn0kmjtu237rv5wk4ls",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1zw86nek0lxd8ymee083pgw5hv50pnt4n5nuc04",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio1zsw30plzjvdxt96l466h3y6zykvnmhngydkhng",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "13551818760"
+            }
+          ]
+        },
+        {
+          "address": "optio1zn0qkluv7mntm33cgt89uxq4wwpjws9tgr9d9l",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1ze9qrtzvr9cmg0jqznde6g6ctd8qt4j02dpu7r",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "5172729200"
             }
           ]
         },
@@ -70,7 +1612,700 @@
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "500000000000"
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1r58nhxzlzwuwxvjvrqpyjn349gn3q6heqf22u4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1rhc0wrh8fapggz8ec3g3r6h9sngllka6em6qxx",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "11149607620"
+            }
+          ]
+        },
+        {
+          "address": "optio1y9x9wu2z2rd2yna4c08hmdyjdk5cfsgmwjgceu",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168"
+            }
+          ]
+        },
+        {
+          "address": "optio1yvnas93ndk0zs8rxwpehtz0k5lvq6a6mn9revz",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1y03lpws95jtklhsx3vm8ecgh9ylnzjgsp3kn6n",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio1yskt4yxtc72e4pjqp47jg0veujcdlp6kffcl6w",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio1yc2pht8wnf437uvgyjwl2ng4shyze7yj7z3q74",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "103000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1yaktvl647krqnrydjdv7v6gf8wtlut74xjv5r0",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "467984657"
+            }
+          ]
+        },
+        {
+          "address": "optio19rfzm7c4r5h5mhcawrxquulslfckmdzr6xywff",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio19t9epysc0uu4zqzwqwvzfxpup8wl84a43h4s02",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "10014000000"
+            }
+          ]
+        },
+        {
+          "address": "optio19w5kulsw59vyl7prql67gqx6lkhrs5crgf62gg",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "9244999700"
+            }
+          ]
+        },
+        {
+          "address": "optio19jq9m7jeh43j9dfg3rcuucw0k8er4pvsd0fkkf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio19ee0guee5gykflhhnuwm5puqm65yj34u4mdyuu",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio19at5sz8n073cc4th6gg5tk9jg33tdz9f4cdra5",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio19alcnt2q3vn8x0hzl9hc5ahlh6998fk360nlm7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "153454584000"
+            }
+          ]
+        },
+        {
+          "address": "optio1xpfnd0vzhkyph3c7j528zzj29hw9qh7dldc2ma",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio1xxujwqequzjwpytnqjmpdvtnwfj6xwk9yyvd8d",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "39999999869"
+            }
+          ]
+        },
+        {
+          "address": "optio1xgl9ztjm62xy697xd5kcnjmtgrxkjgw6k8wjxn",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio1x256fz72gppgjp5yy832yp5yv67euzw6c6vqdr",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2299588"
+            }
+          ]
+        },
+        {
+          "address": "optio1xl0af7t2pdmyyezfmvp2g6lccg33umt9udyl7j",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio188h3sfupxfccqqmfqhnukawakl0msh5jy0jf0m",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio18dfuuqx6g7uuh8ttq6jte4eu2rkys26q6d3kjq",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1000291793253"
+            }
+          ]
+        },
+        {
+          "address": "optio18sj57509j93v2wvsfmvtd2nnqh67c5vur3jcec",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "7370689862383662"
+            }
+          ]
+        },
+        {
+          "address": "optio18k5rumrk7kj947dslfxdecqj6fhx5r8eu6fqvz",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "225863646000"
+            }
+          ]
+        },
+        {
+          "address": "optio18mewpxujwxsefr96r6pv8ru2kg04cq4pgnfw4q",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio1gr4xd763nhxdk6ttn0kntdcs7dhpnyhqm7d3uq",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio1g0744sm7u672nvaj5mcs2znh4pl769p4enwjqy",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio1gkgzncp6tuu4cmqe0ter64pyk0y9yhld2g5ms8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio1g7exumnkvwlumuz5h074n6h85lnhhvtyg47nua",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1fq8r8xkgk0062pt2athughanxa80t0l56tw60l",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio1ftgcwpleuafsacxcehtkhj3ewj3p4dr7r6x2sw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio1fwxlh852mdwwnfasg9dxzl2p448t2xqyd7f2qs",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1f0d2amlleh0sw8qar98ds2g6yehhtn5nkzhac4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1f0c46p6yhvmhtsspdpa46yaukcjegcnplz8ap4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1fhfhwhywcu9kkdqcux3pvntud7mutcx2uqv0vv",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3qxeqje",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "11338848020000"
+            }
+          ]
+        },
+        {
+          "address": "optio129y6r6pjq94apa2v8h05qy03zqtud5eyzytyez",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio12xy9rwdflhuy8unl5y7mcxdfzx33wvk245kch9",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio12xk6n8x5dyqlvpm2ae5daps43z07p6dgwt2c9h",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio128m573tc04fdf36lvj3e4l6tyuh5swzpwnwr4m",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "29362273980"
+            }
+          ]
+        },
+        {
+          "address": "optio12wf4xkk6jt2vmvh2yheqgs3gwkct9cl6w7ahkt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio12wearl8950smvl8ttzfs6g53lzs50xf2k3uyd8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio12026xmhcu44aar6zuf4zdvzjgj3wx0l3sh92lf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "101000000"
+            }
+          ]
+        },
+        {
+          "address": "optio12j67dhqemwy05rur47x7482rle3a7wfjk8pqs6",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "11293182300"
+            }
+          ]
+        },
+        {
+          "address": "optio125nu6rzm2ap8ncnnhmqymp6vguk82y4vvhm83k",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio12kerxdwfwmy2xehuyqkfgv6v57a53ddfcsrqaf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio12hndmqgklegjtafq9szq26lm0c3hafp4gu3pns",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "688970999287"
+            }
+          ]
+        },
+        {
+          "address": "optio127gzukwd9zpyntvfn363q6z3536z5qrztvdlr3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio1tzrgfr8wdsfatgdhwthyrry92d09c07uvpa4mq",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1tygms3xhhs3yv487phx3dw4a95jn7t7l5x93yd",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "128280000"
+            }
+          ]
+        },
+        {
+          "address": "optio1t99hfu2a2rm6rk5lj92rj59mhqpva4rujmw49a",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "813109125600"
+            }
+          ]
+        },
+        {
+          "address": "optio1txeu0744sju037yegev2jauvnsytjrzg6045s3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168"
+            }
+          ]
+        },
+        {
+          "address": "optio1tdn4cy5g9ql6fqut9f3pc0ru2tu758askf8x4c",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1878761358"
+            }
+          ]
+        },
+        {
+          "address": "optio1tw42ktrhe4j47kxu04euye8jmjn0s9ue79qay0",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "3162091044"
+            }
+          ]
+        },
+        {
+          "address": "optio1vzpdqlc9279vsvnmg60f32mmle0qzlqen6h9f4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "10841455008"
+            }
+          ]
+        },
+        {
+          "address": "optio1v2mpxerr3ugljwkqkxx0g7lx7p2mrj9gjq9ht7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "406561970202"
+            }
+          ]
+        },
+        {
+          "address": "optio1vwhnvfhapvnzutcwq6u3uezsfsthqxtn83gk4e",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio1v0x406grqlsmssz0vz94zpmusqn2naqzhz8fp7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "56465911500"
+            }
+          ]
+        },
+        {
+          "address": "optio1dqm5nl5vrc40m2dw3geaqnldze2azhdmfanys8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio1drxt02keuq95pssuxljjtszmty2ehlxcu6lu0j",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1dw8rfdg6mcujhus40le0yjpw5k4fam35lsg6js",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1d4ver76srml52le7pslj4tcw3kd0ue5cd0a256",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio1deh9nht8ek6xq5zhggmtw6njkqgsx4najm2q0e",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio1wp9rtfet59se9cgeyvw5csn23zs5dseepm2me4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "11293182300"
+            }
+          ]
+        },
+        {
+          "address": "optio1wxerp6cdu4eapwapyee8ket24pxtjxyyny80yy",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168"
+            }
+          ]
+        },
+        {
+          "address": "optio10yr3drlxts9f3nhyptewn3yngp565cqq6yyl04",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio10f4sp2u4qctvwc7qk7sskkgwqjqp3lgxxex3xa",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio10nfnsh6nrkjdtqdn52w9s3qz6ptlxrdc3t592h",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio10axtmg2tw6ezg7fq48whny4j9rjqtsyszxm4hr",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio1sqcr2dx0xljlz5mzu08dlhsvce404hjahl9xke",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "451727292"
+            }
+          ]
+        },
+        {
+          "address": "optio1sp3m66dtjvr3y5yxenlw2gwy5j3g8cegvw70cu",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "101000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1s2qqtctx6afdhz07zfpkm0dmrkwtxu4p94artv",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1000000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1s7j78wf6j3gu88nxnlvrx7m798jmt6j8csj2gv",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "998999813090"
+            }
+          ]
+        },
+        {
+          "address": "optio13z9gxwr5aqlns49gynnx3wshnh7xxxae0y07jl",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "8131091256"
             }
           ]
         },
@@ -79,7 +2314,124 @@
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "1000000000"
+              "amount": "99998970653716"
+            }
+          ]
+        },
+        {
+          "address": "optio132cpga4l5d5rt3qm5mdphhu98utfe2u3avng3s",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio13szdccnm5xrsv0zxyayx8pfw65fm2zsez5qqla",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168000"
+            }
+          ]
+        },
+        {
+          "address": "optio13j8dgpj0d4vac7qg4lvwma0kx3wjwrx9pqs2jt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio13kdt238stc93n6r7c7gh82ksz02t6dsjl4n8n2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "54740736"
+            }
+          ]
+        },
+        {
+          "address": "optio13haezvkh4dxvl5nw8j5mynp4cd7d5u58dz6pcx",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1jxqv74xp2nxjtkgjw6mhkwghsntx8jljx2umdw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8jz5nz3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "56120508"
+            }
+          ]
+        },
+        {
+          "address": "optio1j3ut7zzrd847psq57we47v8vqxzsesx8zvt7ux",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio1jaxa22acl6sne9texna5w7wq8lrqt9gjym0065",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1nzwaslm7k0r4754prp9anpsncf36kz80h3l0z4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168"
+            }
+          ]
+        },
+        {
+          "address": "optio1nz4zqzr0lafhkqfcx5gfdl8epw2y0hxpjp0wlp",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1n8uj6kjy8ytrfladvhukgzhulhcdkwupr03zv4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "903454584"
+            }
+          ]
+        },
+        {
+          "address": "optio1nngv0n0c8wd2k2wl5efzmxanqy9zncjskvt9v2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
             }
           ]
         },
@@ -88,7 +2440,538 @@
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "750000000000"
+              "amount": "1203087000"
+            }
+          ]
+        },
+        {
+          "address": "optio15r0nvguqzychkq06g3t78cxfm0yrzv0xfvauk2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "135518187600"
+            }
+          ]
+        },
+        {
+          "address": "optio15f47ye0ntwqxzs7zkfe23g0mwzvd7t4nd9hshr",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "180690916800"
+            }
+          ]
+        },
+        {
+          "address": "optio15t7827ve2nsqh80ce2u7vvuxp2jz82lp25e4ws",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "998999813090"
+            }
+          ]
+        },
+        {
+          "address": "optio15vgna4nr5rc8fjuhe87xtjvgkyym3g7hvyfks0",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio15lam39ykdlph5qskxwv7eqeaj4xkhywf0qsdfy",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio14q74ps3mmmtusehsfm5g3da73kxkfw8cehvanx",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "180690916800"
+            }
+          ]
+        },
+        {
+          "address": "optio14ptyv3sxs9xvc3ha9kqckpqjlwljechwnrhux9",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4969000212"
+            }
+          ]
+        },
+        {
+          "address": "optio14p0lzsxpfhpep55maunttxm0rr4par0ms7g8l6",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio14p3ezruvvx9ass0ewgkzehtwfx0c2388mxh8rw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "999999906235"
+            }
+          ]
+        },
+        {
+          "address": "optio14gud8mfd702l4008t52kkr39nj45z2mt35gjkw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio14wktzh4k734nvnw53d9znysrvslyteg64zntw2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1460z3vkdxemjafllz4f5rm0gkvavllt4txfw2p",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
+            }
+          ]
+        },
+        {
+          "address": "optio14a0hw4w08eyjt47kla5tp7dd4jtuxvpcq9zvkc",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio14758tts5h3adyzmuhnqnhvq3re2mgtud59s0r8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "6775909380"
+            }
+          ]
+        },
+        {
+          "address": "optio1k8dtfuehk78nz3x7d95990muku4wz6xuzd4mjk",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1003381395840"
+            }
+          ]
+        },
+        {
+          "address": "optio1h9sug2ga7x5drl2jgw7ycwdtkg93a22le8kkec",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "6324182088"
+            }
+          ]
+        },
+        {
+          "address": "optio1hfkhfepwgul9ugx9expj3t0ml26qcpcun3la4u",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "33887546900"
+            }
+          ]
+        },
+        {
+          "address": "optio1h2vxaagk8sunql3y09dccc0pp0p9z4lv3qpjc2",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1ht4k7ejkz2mpdgncfsl2luyndp82wvwj3m6q48",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "996058678860"
+            }
+          ]
+        },
+        {
+          "address": "optio1hszlr4gehv6xzxv8j470h3535xhtquaw7c9gzc",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1h3ajh8mtz8rehzmj4uq9muul5279hnw40um0q6",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "12648364176"
+            }
+          ]
+        },
+        {
+          "address": "optio1h4rqm5f6ssyu7h0wcqljm454lu807lqnqj2jtw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1h6l785rzcjgfdfaasj3qm20uchsw0jy4d74pdv",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1806909168"
+            }
+          ]
+        },
+        {
+          "address": "optio1cz8zdzw04zf9aeklc8388n0ga6klql6mnhh33u",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "3613818336"
+            }
+          ]
+        },
+        {
+          "address": "optio1cyzq8556fqys2dcffwy4uhwcsz6tvp80dwq0rx",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1cs25r53kdp4y6npyn2lgh7f753hwk7wescr3xt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "306909168000"
+            }
+          ]
+        },
+        {
+          "address": "optio1ckgzk9qxstq5ja7k2z7epj038akp9gzthgxvnf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio1cm90k5f6mxkx8fwmzvy5y5fz6ylumuvplevdlr",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "104242693"
+            }
+          ]
+        },
+        {
+          "address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "999980905905"
+            }
+          ]
+        },
+        {
+          "address": "optio1ex88e5gssy87dm07fmdpmtym5j2sh4mxdd2avl",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "144552733440"
+            }
+          ]
+        },
+        {
+          "address": "optio1e2g5937hq0hl2zqp934zthgj3qrqy4qlgt5nmg",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "89893731108"
+            }
+          ]
+        },
+        {
+          "address": "optio1et6mdyhp4n6y6wv80u9v0j62yfvhrdatkjj3mf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "63864192"
+            }
+          ]
+        },
+        {
+          "address": "optio1evp9l0qcjc0pdqxlst8tp43r0ydwwt68ktzyd7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4517272920"
+            }
+          ]
+        },
+        {
+          "address": "optio16qd6fdrkf724275yzup8seca53x2tmpfhej5e6",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "25404456400"
+            }
+          ]
+        },
+        {
+          "address": "optio16q3hvcfjg0szs4nkwzc8vsrdxdc3kvpe9ffflq",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "4600000"
+            }
+          ]
+        },
+        {
+          "address": "optio16tapj9njd8jgu4za7dpv4lxy3lx9qe0805umdf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2710363752"
+            }
+          ]
+        },
+        {
+          "address": "optio163z4hh9x9aluh9x7kkqvq6g5sw758z029ye2q7",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "225863646000"
+            }
+          ]
+        },
+        {
+          "address": "optio16mz9w5pgpk9skmhmdrhqxu02pd0j468cwcnuzf",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "11810954"
+            }
+          ]
+        },
+        {
+          "address": "optio1m0gq423pn6sgqazwr6hw34quly2x6g6ma0xtw3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "16998888"
+            }
+          ]
+        },
+        {
+          "address": "optio1m6dkjg8p990kzl579dguwdxz8jf5q7262x67nd",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1727292000"
+            }
+          ]
+        },
+        {
+          "address": "optio1uz8y7kjegk8jtw492d2vypy05heveq7k6fxj98",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "156820110"
+            }
+          ]
+        },
+        {
+          "address": "optio1udcyx3tw98kl9kmllw6khflrmmn93yjjmrwuzw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "10299399665002"
+            }
+          ]
+        },
+        {
+          "address": "optio1uj9cef72su75ca9vdq3y2wnflgppmg8f90rs3x",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "811559754"
+            }
+          ]
+        },
+        {
+          "address": "optio1u64gld4vuga0s2tph4p085uy8fgecn475ww7f8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "3162091044"
+            }
+          ]
+        },
+        {
+          "address": "optio1u6e7v5j8hu7aa0kehcj38jr5t758d5gapxw7u8",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "560000"
+            }
+          ]
+        },
+        {
+          "address": "optio1uud49lkhan6fkmc3h5rws3vhdxn09wh3uef938",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "45172729200"
+            }
+          ]
+        },
+        {
+          "address": "optio1u7rnr84y9ry6vyg896ul50f46nlsjza6qp920n",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2710363752"
+            }
+          ]
+        },
+        {
+          "address": "optio1aqym3k7szr73686hzyzzg4yrs89z2edgkwjm4w",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "18246912"
+            }
+          ]
+        },
+        {
+          "address": "optio1a2k8mhedeczyawql3tp2llmu7p9rskzfuw3rvt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1599266"
+            }
+          ]
+        },
+        {
+          "address": "optio1avgd0pg6p5d0kajn5agtnpd38y2p8ve0pp8w4p",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "77499691"
+            }
+          ]
+        },
+        {
+          "address": "optio1a0lmtq3278h4mk8m2mcfa448k848zrq58s0ypw",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1a3kanvvcvjgs9lutdg4qjdyflqc83t3jhuq3kq",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2258636460"
+            }
+          ]
+        },
+        {
+          "address": "optio1auprlzvq3xmunthfcfpsmu6w5u7cs0939p9qmt",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2005000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1aa7na30w2ekk0ewlrch0u3tmn9kwy700av53rx",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1250209999869"
+            }
+          ]
+        },
+        {
+          "address": "optio1lxlldsx4zkp24fgsy7wvuju7yjdkhdurde4626",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "2710363752"
+            }
+          ]
+        },
+        {
+          "address": "optio1l2tcwhrwasy35msczklq6e0urz40s03dnst0sr",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "100000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1lt7xsfxpwrzn54ndy0cc6tzq0vrckyf94cv2c3",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "28910546688"
+            }
+          ]
+        },
+        {
+          "address": "optio1luq8u8duv8rlm44a4e0v455qsncsj4lyjn0h07",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "1355181876"
             }
           ]
         }
@@ -96,21 +2979,51 @@
       "supply": [
         {
           "denom": "uOPT",
-          "amount": "11251000000000"
+          "amount": "7511250000000000"
         }
       ],
       "denom_metadata": [],
       "send_enabled": []
     },
     "capability": {
-      "index": "1",
-      "owners": []
+      "index": "3",
+      "owners": [
+        {
+          "index": "1",
+          "index_owners": {
+            "owners": [
+              {
+                "module": "ibc",
+                "name": "ports/transfer"
+              },
+              {
+                "module": "transfer",
+                "name": "ports/transfer"
+              }
+            ]
+          }
+        },
+        {
+          "index": "2",
+          "index_owners": {
+            "owners": [
+              {
+                "module": "ibc",
+                "name": "ports/icahost"
+              },
+              {
+                "module": "icahost",
+                "name": "ports/icahost"
+              }
+            ]
+          }
+        }
+      ]
     },
     "circuit": {
       "account_permissions": [],
       "disabled_type_urls": []
     },
-    "consensus": null,
     "crisis": {
       "constant_fee": {
         "denom": "uOPT",
@@ -125,15 +3038,661 @@
         "withdraw_addr_enabled": true
       },
       "fee_pool": {
-        "community_pool": []
+        "community_pool": [
+          {
+            "denom": "uOPT",
+            "amount": "1122432.657047626719525590"
+          }
+        ]
       },
       "delegator_withdraw_infos": [],
-      "previous_proposer": "",
-      "outstanding_rewards": [],
-      "validator_accumulated_commissions": [],
-      "validator_historical_rewards": [],
-      "validator_current_rewards": [],
-      "delegator_starting_infos": [],
+      "previous_proposer": "optiovalcons1wq8qnk3acq9feufvpryvm7d82f0z09mq0cyka6",
+      "outstanding_rewards": [
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "outstanding_rewards": [
+            {
+              "denom": "uOPT",
+              "amount": "48887588.531026827936674103"
+            }
+          ]
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "outstanding_rewards": [
+            {
+              "denom": "uOPT",
+              "amount": "2442005.618626142238663834"
+            }
+          ]
+        },
+        {
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "outstanding_rewards": [
+            {
+              "denom": "uOPT",
+              "amount": "2999.293105244948290201"
+            }
+          ]
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "outstanding_rewards": [
+            {
+              "denom": "uOPT",
+              "amount": "3665481.900194158156846272"
+            }
+          ]
+        }
+      ],
+      "validator_accumulated_commissions": [
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "accumulated": {
+            "commission": [
+              {
+                "denom": "uOPT",
+                "amount": "4888760.622920164604067412"
+              }
+            ]
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "accumulated": {
+            "commission": [
+              {
+                "denom": "uOPT",
+                "amount": "244202.260268657394326380"
+              }
+            ]
+          }
+        },
+        {
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "accumulated": {
+            "commission": [
+              {
+                "denom": "uOPT",
+                "amount": "299.929310524494829020"
+              }
+            ]
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "accumulated": {
+            "commission": [
+              {
+                "denom": "uOPT",
+                "amount": "366572.549500653499073642"
+              }
+            ]
+          }
+        }
+      ],
+      "validator_historical_rewards": [
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "period": "1",
+          "rewards": {
+            "cumulative_reward_ratio": [],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "period": "7",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004376206896862"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "period": "11",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377136568579"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "period": "12",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377299976887"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "period": "13",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004404264834084"
+              }
+            ],
+            "reference_count": 2
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "1",
+          "rewards": {
+            "cumulative_reward_ratio": [],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "2",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000000957539588773"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "12",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000003146641703884"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "15",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000003357162617125"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "18",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004376328576766"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "22",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004376625394345"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "24",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377087143295"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "period": "26",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004388701449025"
+              }
+            ],
+            "reference_count": 2
+          }
+        },
+        {
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "period": "1",
+          "rewards": {
+            "cumulative_reward_ratio": [],
+            "reference_count": 2
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "1",
+          "rewards": {
+            "cumulative_reward_ratio": [],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "7",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000002296716517903"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "14",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000002923025127069"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "23",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000003146638591200"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "42",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000003629055949810"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "81",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004341173991873"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "85",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004376325371866"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "102",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377083958805"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "105",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377214703353"
+              }
+            ],
+            "reference_count": 1
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "period": "107",
+          "rewards": {
+            "cumulative_reward_ratio": [
+              {
+                "denom": "uOPT",
+                "amount": "0.000004377250881724"
+              }
+            ],
+            "reference_count": 2
+          }
+        }
+      ],
+      "validator_current_rewards": [
+        {
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "rewards": {
+            "rewards": [
+              {
+                "denom": "uOPT",
+                "amount": "218.362238223192700021"
+              }
+            ],
+            "period": "14"
+          }
+        },
+        {
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "rewards": {
+            "rewards": [
+              {
+                "denom": "uOPT",
+                "amount": "7786.226707323694981728"
+              }
+            ],
+            "period": "27"
+          }
+        },
+        {
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "rewards": {
+            "rewards": [
+              {
+                "denom": "uOPT",
+                "amount": "2699.363794720453461181"
+              }
+            ],
+            "period": "2"
+          }
+        },
+        {
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "rewards": {
+            "rewards": [
+              {
+                "denom": "uOPT",
+                "amount": "20249.655747919000384498"
+              }
+            ],
+            "period": "108"
+          }
+        }
+      ],
+      "delegator_starting_infos": [
+        {
+          "delegator_address": "optio1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw8mprz0",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "starting_info": {
+            "previous_period": "1",
+            "stake": "9990000000000.000000000000000000",
+            "height": "0"
+          }
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "starting_info": {
+            "previous_period": "12",
+            "stake": "12000000.000000000000000000",
+            "height": "940358"
+          }
+        },
+        {
+          "delegator_address": "optio1x256fz72gppgjp5yy832yp5yv67euzw6c6vqdr",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "starting_info": {
+            "previous_period": "13",
+            "stake": "1000000.000000000000000000",
+            "height": "1024094"
+          }
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "starting_info": {
+            "previous_period": "7",
+            "stake": "120000000.000000000000000000",
+            "height": "808555"
+          }
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "starting_info": {
+            "previous_period": "11",
+            "stake": "6000000.000000000000000000",
+            "height": "911550"
+          }
+        },
+        {
+          "delegator_address": "optio1zmx23k49za9x2src2fy6sqnxml6y6kcjf7nj3z",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "1",
+            "stake": "499000000000.000000000000000000",
+            "height": "0"
+          }
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "15",
+            "stake": "4000000.000000000000000000",
+            "height": "769266"
+          }
+        },
+        {
+          "delegator_address": "optio19w5kulsw59vyl7prql67gqx6lkhrs5crgf62gg",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "22",
+            "stake": "555000000.000000000000000000",
+            "height": "812255"
+          }
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "24",
+            "stake": "1700000.000000000000000000",
+            "height": "891431"
+          }
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "2",
+            "stake": "10000000.000000000000000000",
+            "height": "337533"
+          }
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "26",
+            "stake": "43000000.000000000000000000",
+            "height": "1014162"
+          }
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "12",
+            "stake": "8000000.000000000000000000",
+            "height": "754445"
+          }
+        },
+        {
+          "delegator_address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "starting_info": {
+            "previous_period": "18",
+            "stake": "1000000.000000000000000000",
+            "height": "808950"
+          }
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "starting_info": {
+            "previous_period": "1",
+            "stake": "100000000000.000000000000000000",
+            "height": "930992"
+          }
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "42",
+            "stake": "14000000.000000000000000000",
+            "height": "800178"
+          }
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "102",
+            "stake": "5220000.000000000000000000",
+            "height": "891431"
+          }
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "7",
+            "stake": "33000000.000000000000000000",
+            "height": "490826"
+          }
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "107",
+            "stake": "15000000.000000000000000000",
+            "height": "927658"
+          }
+        },
+        {
+          "delegator_address": "optio15p0h85teu609vv4llme7h78ntkkzxf4car7puk",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "1",
+            "stake": "749000000000.000000000000000000",
+            "height": "0"
+          }
+        },
+        {
+          "delegator_address": "optio1cm90k5f6mxkx8fwmzvy5y5fz6ylumuvplevdlr",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "81",
+            "stake": "2000000.000000000000000000",
+            "height": "802934"
+          }
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "23",
+            "stake": "10000000.000000000000000000",
+            "height": "754445"
+          }
+        },
+        {
+          "delegator_address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "85",
+            "stake": "2000000.000000000000000000",
+            "height": "808950"
+          }
+        },
+        {
+          "delegator_address": "optio1uz8y7kjegk8jtw492d2vypy05heveq7k6fxj98",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "14",
+            "stake": "5000000.000000000000000000",
+            "height": "718099"
+          }
+        },
+        {
+          "delegator_address": "optio1a2k8mhedeczyawql3tp2llmu7p9rskzfuw3rvt",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "starting_info": {
+            "previous_period": "105",
+            "stake": "100000.000000000000000000",
+            "height": "919686"
+          }
+        }
+      ],
       "validator_slash_events": []
     },
     "evidence": {
@@ -150,194 +3709,7 @@
       "forward_relayers": []
     },
     "genutil": {
-      "gen_txs": [
-        {
-          "body": {
-            "messages": [
-              {
-                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
-                "description": {
-                  "moniker": "optio",
-                  "identity": "",
-                  "website": "",
-                  "security_contact": "",
-                  "details": ""
-                },
-                "commission": {
-                  "rate": "0.100000000000000000",
-                  "max_rate": "0.200000000000000000",
-                  "max_change_rate": "0.010000000000000000"
-                },
-                "min_self_delegation": "1",
-                "delegator_address": "",
-                "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
-                "pubkey": {
-                  "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "0tLoJzVujXODPHYrspYCVDxzkJnTnpget9dUrV+Up38="
-                },
-                "value": {
-                  "denom": "uOPT",
-                  "amount": "499000000000"
-                }
-              }
-            ],
-            "memo": "953d4b800c0aafa927ecf9f901c94d3aabececfa@146.190.169.217:26656",
-            "timeout_height": "0",
-            "extension_options": [],
-            "non_critical_extension_options": []
-          },
-          "auth_info": {
-            "signer_infos": [
-              {
-                "public_key": {
-                  "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "AkE2NheXZnCV8lE1rrfjTWexNdf+IaLiNufNVt0zv9ak"
-                },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
-                "sequence": "0"
-              }
-            ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            },
-            "tip": null
-          },
-          "signatures": [
-            "MnI+TDe8s7Lyg3gxZfSvW8Hf/zf6fM4LuaFy/OeDqEEEnCwzilmW2oeblTnfn6jkCcO6iM5iThVBxt2GcpvHdA=="
-          ]
-        },
-        {
-          "body": {
-            "messages": [
-              {
-                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
-                "description": {
-                  "moniker": "optio",
-                  "identity": "",
-                  "website": "",
-                  "security_contact": "",
-                  "details": ""
-                },
-                "commission": {
-                  "rate": "0.100000000000000000",
-                  "max_rate": "0.200000000000000000",
-                  "max_change_rate": "0.010000000000000000"
-                },
-                "min_self_delegation": "1",
-                "delegator_address": "",
-                "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
-                "pubkey": {
-                  "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "2SDTCXns5YzzMfrBUU/Ow1tng5QUsnlcLBi5p/c+Pj0="
-                },
-                "value": {
-                  "denom": "uOPT",
-                  "amount": "749000000000"
-                }
-              }
-            ],
-            "memo": "a1f130382448d6174286a195f70b5b6379140d2a@146.190.165.55:26656",
-            "timeout_height": "0",
-            "extension_options": [],
-            "non_critical_extension_options": []
-          },
-          "auth_info": {
-            "signer_infos": [
-              {
-                "public_key": {
-                  "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A+0WIajDs7pkCvAnBbIIKcvVWVrqkwx958/2VI73r/Dm"
-                },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
-                "sequence": "0"
-              }
-            ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            },
-            "tip": null
-          },
-          "signatures": [
-            "w/3NDghuEeouvCTDZD1N+v53cEnT9How/l7FYQFAbgdcrFdpRKZunryMdsJ+vkjGhVeE9lsGxu2sgqslNbxbnw=="
-          ]
-        },
-        {
-          "body": {
-            "messages": [
-              {
-                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
-                "description": {
-                  "moniker": "optio",
-                  "identity": "",
-                  "website": "",
-                  "security_contact": "",
-                  "details": ""
-                },
-                "commission": {
-                  "rate": "0.100000000000000000",
-                  "max_rate": "0.200000000000000000",
-                  "max_change_rate": "0.010000000000000000"
-                },
-                "min_self_delegation": "1",
-                "delegator_address": "",
-                "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
-                "pubkey": {
-                  "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "3Z+NiSMTfhr6xMDeQJX5+3Ae2kFLSz8mJ1Syn2LIMZs="
-                },
-                "value": {
-                  "denom": "uOPT",
-                  "amount": "9990000000000"
-                }
-              }
-            ],
-            "memo": "dcb009bd2cfd0689a9cb01cd089a989335dc846a@143.110.156.207:26656",
-            "timeout_height": "0",
-            "extension_options": [],
-            "non_critical_extension_options": []
-          },
-          "auth_info": {
-            "signer_infos": [
-              {
-                "public_key": {
-                  "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A4tZQBeGB1sxBZX2TDXXcvl1mUoTxxmGPfLUd2CJqOb1"
-                },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
-                "sequence": "0"
-              }
-            ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            },
-            "tip": null
-          },
-          "signatures": [
-            "p4DG4XCQs9yLF49rgMlrvgnrNVkUcEp0OdujireGskBpwVbiHlubwvceF6L4DwOU1c/z+NxpP/e/A1kqlljrUg=="
-          ]
-        }
-      ]
+      "gen_txs": []
     },
     "gov": {
       "starting_proposal_id": "1",
@@ -389,7 +3761,18 @@
     },
     "ibc": {
       "client_genesis": {
-        "clients": [],
+        "clients": [
+          {
+            "client_id": "09-localhost",
+            "client_state": {
+              "@type": "/ibc.lightclients.localhost.v2.ClientState",
+              "latest_height": {
+                "revision_number": "0",
+                "revision_height": "1048189"
+              }
+            }
+          }
+        ],
         "clients_consensus": [],
         "clients_metadata": [],
         "params": {
@@ -401,7 +3784,30 @@
         "next_client_sequence": "0"
       },
       "connection_genesis": {
-        "connections": [],
+        "connections": [
+          {
+            "id": "connection-localhost",
+            "client_id": "09-localhost",
+            "versions": [
+              {
+                "identifier": "1",
+                "features": [
+                  "ORDER_ORDERED",
+                  "ORDER_UNORDERED"
+                ]
+              }
+            ],
+            "state": "STATE_OPEN",
+            "counterparty": {
+              "client_id": "09-localhost",
+              "connection_id": "connection-localhost",
+              "prefix": {
+                "key_prefix": "aWJj"
+              }
+            },
+            "delay_period": "0"
+          }
+        ],
         "client_connection_paths": [],
         "next_connection_sequence": "0",
         "params": {
@@ -476,8 +3882,6 @@
         "maxSupply": "30000000000000000"
       }
     },
-    "params": null,
-    "runtime": null,
     "slashing": {
       "params": {
         "signed_blocks_window": "100",
@@ -486,8 +3890,133 @@
         "slash_fraction_double_sign": "0.050000000000000000",
         "slash_fraction_downtime": "0.010000000000000000"
       },
-      "signing_infos": [],
-      "missed_blocks": []
+      "signing_infos": [
+        {
+          "address": "optiovalcons1y3g6hpreq9gc3wjxe9j3umhcj6jv6mgrcufmas",
+          "validator_signing_info": {
+            "address": "optiovalcons1y3g6hpreq9gc3wjxe9j3umhcj6jv6mgrcufmas",
+            "start_height": "0",
+            "index_offset": "1048188",
+            "jailed_until": "1970-01-01T00:00:00Z",
+            "tombstoned": false,
+            "missed_blocks_counter": "5"
+          }
+        },
+        {
+          "address": "optiovalcons1wq8qnk3acq9feufvpryvm7d82f0z09mq0cyka6",
+          "validator_signing_info": {
+            "address": "optiovalcons1wq8qnk3acq9feufvpryvm7d82f0z09mq0cyka6",
+            "start_height": "0",
+            "index_offset": "1048188",
+            "jailed_until": "1970-01-01T00:00:00Z",
+            "tombstoned": false,
+            "missed_blocks_counter": "0"
+          }
+        },
+        {
+          "address": "optiovalcons1jxf8uvrqexhdh9u24aza0j4vqk4xqrf72aygm9",
+          "validator_signing_info": {
+            "address": "optiovalcons1jxf8uvrqexhdh9u24aza0j4vqk4xqrf72aygm9",
+            "start_height": "930992",
+            "index_offset": "117195",
+            "jailed_until": "1970-01-01T00:00:00Z",
+            "tombstoned": false,
+            "missed_blocks_counter": "5"
+          }
+        },
+        {
+          "address": "optiovalcons1nlg45cvnekwreg2xhf3n5g7se7c8h5xnn4uhxt",
+          "validator_signing_info": {
+            "address": "optiovalcons1nlg45cvnekwreg2xhf3n5g7se7c8h5xnn4uhxt",
+            "start_height": "0",
+            "index_offset": "1048188",
+            "jailed_until": "1970-01-01T00:00:00Z",
+            "tombstoned": false,
+            "missed_blocks_counter": "5"
+          }
+        }
+      ],
+      "missed_blocks": [
+        {
+          "address": "optiovalcons1y3g6hpreq9gc3wjxe9j3umhcj6jv6mgrcufmas",
+          "missed_blocks": [
+            {
+              "index": "29",
+              "missed": true
+            },
+            {
+              "index": "30",
+              "missed": true
+            },
+            {
+              "index": "31",
+              "missed": true
+            },
+            {
+              "index": "32",
+              "missed": true
+            },
+            {
+              "index": "33",
+              "missed": true
+            }
+          ]
+        },
+        {
+          "address": "optiovalcons1wq8qnk3acq9feufvpryvm7d82f0z09mq0cyka6",
+          "missed_blocks": []
+        },
+        {
+          "address": "optiovalcons1jxf8uvrqexhdh9u24aza0j4vqk4xqrf72aygm9",
+          "missed_blocks": [
+            {
+              "index": "36",
+              "missed": true
+            },
+            {
+              "index": "37",
+              "missed": true
+            },
+            {
+              "index": "38",
+              "missed": true
+            },
+            {
+              "index": "39",
+              "missed": true
+            },
+            {
+              "index": "40",
+              "missed": true
+            }
+          ]
+        },
+        {
+          "address": "optiovalcons1nlg45cvnekwreg2xhf3n5g7se7c8h5xnn4uhxt",
+          "missed_blocks": [
+            {
+              "index": "29",
+              "missed": true
+            },
+            {
+              "index": "30",
+              "missed": true
+            },
+            {
+              "index": "31",
+              "missed": true
+            },
+            {
+              "index": "32",
+              "missed": true
+            },
+            {
+              "index": "33",
+              "missed": true
+            }
+          ]
+        }
+      ]
     },
     "staking": {
       "params": {
@@ -498,13 +4027,501 @@
         "bond_denom": "uOPT",
         "min_commission_rate": "0.000000000000000000"
       },
-      "last_total_power": "0",
-      "last_validator_powers": [],
-      "validators": [],
-      "delegations": [],
-      "unbonding_delegations": [],
-      "redelegations": [],
-      "exported": false
+      "last_total_power": "11338847",
+      "last_validator_powers": [
+        {
+          "address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "power": "9990139"
+        },
+        {
+          "address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "power": "499622"
+        },
+        {
+          "address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "power": "100000"
+        },
+        {
+          "address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "power": "749086"
+        }
+      ],
+      "validators": [
+        {
+          "operator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "consensus_pubkey": {
+            "@type": "/cosmos.crypto.ed25519.PubKey",
+            "key": "3Z+NiSMTfhr6xMDeQJX5+3Ae2kFLSz8mJ1Syn2LIMZs="
+          },
+          "jailed": false,
+          "status": "BOND_STATUS_BONDED",
+          "tokens": "9990139000000",
+          "delegator_shares": "9990139000000.000000000000000000",
+          "description": {
+            "moniker": "optio",
+            "identity": "",
+            "website": "",
+            "security_contact": "",
+            "details": ""
+          },
+          "unbonding_height": "0",
+          "unbonding_time": "1970-01-01T00:00:00Z",
+          "commission": {
+            "commission_rates": {
+              "rate": "0.100000000000000000",
+              "max_rate": "0.200000000000000000",
+              "max_change_rate": "0.010000000000000000"
+            },
+            "update_time": "2024-12-05T20:01:06.020099857Z"
+          },
+          "min_self_delegation": "1",
+          "unbonding_on_hold_ref_count": "0",
+          "unbonding_ids": []
+        },
+        {
+          "operator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "consensus_pubkey": {
+            "@type": "/cosmos.crypto.ed25519.PubKey",
+            "key": "0tLoJzVujXODPHYrspYCVDxzkJnTnpget9dUrV+Up38="
+          },
+          "jailed": false,
+          "status": "BOND_STATUS_BONDED",
+          "tokens": "499622700000",
+          "delegator_shares": "499622700000.000000000000000000",
+          "description": {
+            "moniker": "optio",
+            "identity": "",
+            "website": "",
+            "security_contact": "",
+            "details": ""
+          },
+          "unbonding_height": "0",
+          "unbonding_time": "1970-01-01T00:00:00Z",
+          "commission": {
+            "commission_rates": {
+              "rate": "0.100000000000000000",
+              "max_rate": "0.200000000000000000",
+              "max_change_rate": "0.010000000000000000"
+            },
+            "update_time": "2024-12-05T20:01:06.020099857Z"
+          },
+          "min_self_delegation": "1",
+          "unbonding_on_hold_ref_count": "0",
+          "unbonding_ids": []
+        },
+        {
+          "operator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "consensus_pubkey": {
+            "@type": "/cosmos.crypto.ed25519.PubKey",
+            "key": "As+IkKhViJMBqGv0/xl2dEN8IHXlZx30WWBDqkITPgQ="
+          },
+          "jailed": false,
+          "status": "BOND_STATUS_BONDED",
+          "tokens": "100000000000",
+          "delegator_shares": "100000000000.000000000000000000",
+          "description": {
+            "moniker": "New Validator",
+            "identity": "",
+            "website": "",
+            "security_contact": "",
+            "details": ""
+          },
+          "unbonding_height": "0",
+          "unbonding_time": "1970-01-01T00:00:00Z",
+          "commission": {
+            "commission_rates": {
+              "rate": "0.100000000000000000",
+              "max_rate": "0.200000000000000000",
+              "max_change_rate": "0.010000000000000000"
+            },
+            "update_time": "2025-02-07T00:48:10.585903931Z"
+          },
+          "min_self_delegation": "1",
+          "unbonding_on_hold_ref_count": "0",
+          "unbonding_ids": []
+        },
+        {
+          "operator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "consensus_pubkey": {
+            "@type": "/cosmos.crypto.ed25519.PubKey",
+            "key": "2SDTCXns5YzzMfrBUU/Ow1tng5QUsnlcLBi5p/c+Pj0="
+          },
+          "jailed": false,
+          "status": "BOND_STATUS_BONDED",
+          "tokens": "749086320000",
+          "delegator_shares": "749086320000.000000000000000000",
+          "description": {
+            "moniker": "optio",
+            "identity": "",
+            "website": "",
+            "security_contact": "",
+            "details": ""
+          },
+          "unbonding_height": "0",
+          "unbonding_time": "1970-01-01T00:00:00Z",
+          "commission": {
+            "commission_rates": {
+              "rate": "0.100000000000000000",
+              "max_rate": "0.200000000000000000",
+              "max_change_rate": "0.010000000000000000"
+            },
+            "update_time": "2024-12-05T20:01:06.020099857Z"
+          },
+          "min_self_delegation": "1",
+          "unbonding_on_hold_ref_count": "0",
+          "unbonding_ids": []
+        }
+      ],
+      "delegations": [
+        {
+          "delegator_address": "optio1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw8mprz0",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "shares": "9990000000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1zmx23k49za9x2src2fy6sqnxml6y6kcjf7nj3z",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "499000000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "shares": "12000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "4000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "14000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio19w5kulsw59vyl7prql67gqx6lkhrs5crgf62gg",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "555000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1x256fz72gppgjp5yy832yp5yv67euzw6c6vqdr",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "shares": "1000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "1700000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "5220000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "shares": "120000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "10000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio18kg46y759g9ks6yny9y4lxme8qj8flvh74whxf",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "33000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "shares": "6000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "43000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper13zj88zcylclhevtsztx0kdgf9a5zysktr60lmz",
+          "shares": "100000000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "15000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio15p0h85teu609vv4llme7h78ntkkzxf4car7puk",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "749000000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1cm90k5f6mxkx8fwmzvy5y5fz6ylumuvplevdlr",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "2000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "8000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "10000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "shares": "1000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "2000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1uz8y7kjegk8jtw492d2vypy05heveq7k6fxj98",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "5000000.000000000000000000"
+        },
+        {
+          "delegator_address": "optio1a2k8mhedeczyawql3tp2llmu7p9rskzfuw3rvt",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "shares": "100000.000000000000000000"
+        }
+      ],
+      "unbonding_delegations": [
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "entries": [
+            {
+              "creation_height": "765732",
+              "completion_time": "2025-02-18T06:28:35.021190259Z",
+              "initial_balance": "1000000",
+              "balance": "1000000",
+              "unbonding_id": "12",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "entries": [
+            {
+              "creation_height": "842368",
+              "completion_time": "2025-02-22T19:06:33.792234455Z",
+              "initial_balance": "280000",
+              "balance": "280000",
+              "unbonding_id": "48",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "entries": [
+            {
+              "creation_height": "808763",
+              "completion_time": "2025-02-20T19:28:01.331346278Z",
+              "initial_balance": "7000000",
+              "balance": "7000000",
+              "unbonding_id": "40",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "810990",
+              "completion_time": "2025-02-20T22:37:19.701769671Z",
+              "initial_balance": "1000000",
+              "balance": "1000000",
+              "unbonding_id": "43",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "entries": [
+            {
+              "creation_height": "811033",
+              "completion_time": "2025-02-20T22:40:59.012631261Z",
+              "initial_balance": "116000000",
+              "balance": "116000000",
+              "unbonding_id": "44",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "824222",
+              "completion_time": "2025-02-21T17:22:26.163773086Z",
+              "initial_balance": "1000000",
+              "balance": "1000000",
+              "unbonding_id": "46",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "entries": [
+            {
+              "creation_height": "749083",
+              "completion_time": "2025-02-17T06:52:41.999543146Z",
+              "initial_balance": "2000000",
+              "balance": "2000000",
+              "unbonding_id": "6",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        }
+      ],
+      "redelegations": [
+        {
+          "delegator_address": "optio1y75m3k67a5jwyp4dzm6nj86rsaxm5asknxawp3",
+          "validator_src_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "validator_dst_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "767246",
+              "completion_time": "2025-02-18T08:37:18.952296511Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "15",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "769266",
+              "completion_time": "2025-02-18T11:29:03.751484725Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "17",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio18wc58qf6eyhqf73za8lew8kkshyugkvjnur2nh",
+          "validator_src_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "validator_dst_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "785465",
+              "completion_time": "2025-02-19T10:26:42.986454966Z",
+              "initial_balance": "100000",
+              "shares_dst": "100000.000000000000000000",
+              "unbonding_id": "19",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "788336",
+              "completion_time": "2025-02-19T14:30:52.223826148Z",
+              "initial_balance": "100000",
+              "shares_dst": "100000.000000000000000000",
+              "unbonding_id": "20",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "841917",
+              "completion_time": "2025-02-22T18:28:08.764529060Z",
+              "initial_balance": "500000",
+              "shares_dst": "500000.000000000000000000",
+              "unbonding_id": "47",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "891431",
+              "completion_time": "2025-02-25T16:42:33.062430906Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "49",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio13zj88zcylclhevtsztx0kdgf9a5zyskt4utffh",
+          "validator_src_address": "optiovaloper1zp3a4zcwr3qhfrhfkynnk6hd0qtlxxuw3a94s6",
+          "validator_dst_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "707302",
+              "completion_time": "2025-02-14T19:40:13.666971265Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "5",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "757266",
+              "completion_time": "2025-02-17T18:28:38.421202338Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "11",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio1eyrgxxdqrdlestt7ahlytths2ug6hmtr8sgm88",
+          "validator_src_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "validator_dst_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "752175",
+              "completion_time": "2025-02-17T11:15:35.136564655Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "8",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "754289",
+              "completion_time": "2025-02-17T14:15:24.524522886Z",
+              "initial_balance": "3000000",
+              "shares_dst": "3000000.000000000000000000",
+              "unbonding_id": "9",
+              "unbonding_on_hold_ref_count": "0"
+            },
+            {
+              "creation_height": "754445",
+              "completion_time": "2025-02-17T14:28:39.747626328Z",
+              "initial_balance": "2000000",
+              "shares_dst": "2000000.000000000000000000",
+              "unbonding_id": "10",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        },
+        {
+          "delegator_address": "optio1mjqj9qsdcq6e3gstxe3xzafwpea6ghuxfhr4l4",
+          "validator_src_address": "optiovaloper15p0h85teu609vv4llme7h78ntkkzxf4ct96hwr",
+          "validator_dst_address": "optiovaloper1zmx23k49za9x2src2fy6sqnxml6y6kcjlchyrh",
+          "entries": [
+            {
+              "creation_height": "808950",
+              "completion_time": "2025-02-20T19:43:55.098737873Z",
+              "initial_balance": "1000000",
+              "shares_dst": "1000000.000000000000000000",
+              "unbonding_id": "42",
+              "unbonding_on_hold_ref_count": "0"
+            }
+          ]
+        }
+      ],
+      "exported": true
     },
     "transfer": {
       "port_id": "transfer",
@@ -519,6 +4536,44 @@
     "vesting": {}
   },
   "consensus": {
+    "validators": [
+      {
+        "address": "700E09DA3DC00A9CF12C08C8CDF9A7525E279760",
+        "pub_key": {
+          "type": "tendermint/PubKeyEd25519",
+          "value": "3Z+NiSMTfhr6xMDeQJX5+3Ae2kFLSz8mJ1Syn2LIMZs="
+        },
+        "power": "9990139",
+        "name": "optio"
+      },
+      {
+        "address": "2451AB8479015188BA46C9651E6EF896A4CD6D03",
+        "pub_key": {
+          "type": "tendermint/PubKeyEd25519",
+          "value": "0tLoJzVujXODPHYrspYCVDxzkJnTnpget9dUrV+Up38="
+        },
+        "power": "499622",
+        "name": "optio"
+      },
+      {
+        "address": "91927E3060C9AEDB978AAF45D7CAAC05AA600D3E",
+        "pub_key": {
+          "type": "tendermint/PubKeyEd25519",
+          "value": "As+IkKhViJMBqGv0/xl2dEN8IHXlZx30WWBDqkITPgQ="
+        },
+        "power": "100000",
+        "name": "New Validator"
+      },
+      {
+        "address": "9FD15A6193CD9C3CA146BA633A23D0CFB07BD0D3",
+        "pub_key": {
+          "type": "tendermint/PubKeyEd25519",
+          "value": "2SDTCXns5YzzMfrBUU/Ow1tng5QUsnlcLBi5p/c+Pj0="
+        },
+        "power": "749086",
+        "name": "optio"
+      }
+    ],
     "params": {
       "block": {
         "max_bytes": "22020096",
